@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D102DCB2B1A161900D9ABEF /* ForthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D102DCA2B1A161900D9ABEF /* ForthView.swift */; };
 		5D8B3C5C2B14D25400C07933 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8B3C5B2B14D25400C07933 /* CustomButton.swift */; };
 		5D8B3C5E2B15991600C07933 /* StateExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8B3C5D2B15991600C07933 /* StateExampleView.swift */; };
 		5D8B3C602B159A6C00C07933 /* StateObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8B3C5F2B159A6C00C07933 /* StateObjectView.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5D102DCA2B1A161900D9ABEF /* ForthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForthView.swift; sourceTree = "<group>"; };
 		5D8B3C5B2B14D25400C07933 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		5D8B3C5D2B15991600C07933 /* StateExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateExampleView.swift; sourceTree = "<group>"; };
 		5D8B3C5F2B159A6C00C07933 /* StateObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateObjectView.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				5D8D62C82B14BBF300B4834E /* StudySwiftUIApp.swift */,
 				5D8D62CC2B14BBF400B4834E /* Assets.xcassets */,
 				5D8D62CE2B14BBF400B4834E /* Preview Content */,
+				5D102DCA2B1A161900D9ABEF /* ForthView.swift */,
 			);
 			path = StudySwiftUI;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				5D8B3C5C2B14D25400C07933 /* CustomButton.swift in Sources */,
 				5D8D62CB2B14BBF300B4834E /* ContentView.swift in Sources */,
 				5D8B3C692B15A92800C07933 /* EnviormentSecondView.swift in Sources */,
+				5D102DCB2B1A161900D9ABEF /* ForthView.swift in Sources */,
 				5D8B3C672B15A60000C07933 /* EnviormentView.swift in Sources */,
 				5D8D62C92B14BBF300B4834E /* StudySwiftUIApp.swift in Sources */,
 				5D8B3C6B2B15C93800C07933 /* EnviormentThirdView.swift in Sources */,
